@@ -110,7 +110,7 @@ export const musican = [
     _id: 'doc2',
     name: 'Harry Styles',
     image: doc2,
-    speciality: 'Electronic Music',
+    speciality: 'Electronic',
     about:
       'Harry Edward Styles is an English singer, songwriter, and actor known for his flamboyant fashion and artistry. His work has significantly impacted modern pop culture.',
     fees: 150,
@@ -119,7 +119,7 @@ export const musican = [
     _id: 'doc3',
     name: 'John Mayer',
     image: doc3,
-    speciality: 'Country and Blues',
+    speciality: 'Country and blues',
     about:
       'John Clayton Mayer is an American singer, songwriter, and guitarist known for his soulful music and guitar skills. He began his career after attending Berklee College of Music.',
     fees: 200,
@@ -137,7 +137,7 @@ export const musican = [
     _id: 'doc5',
     name: 'Atif Aslam',
     image: doc5,
-    speciality: 'Electronic Music',
+    speciality: 'Electronic',
     about:
       'Atif Aslam is a Pakistani pop and playback singer, composer, and actor known for his hit songs in both Pakistani and Indian films.',
     fees: 100,
@@ -146,7 +146,7 @@ export const musican = [
     _id: 'doc6',
     name: 'Arijit Singh',
     image: doc6,
-    speciality: 'Electronic Music',
+    speciality: 'Electronic',
     about:
       'Arijit Singh is an Indian playback singer, composer, and musician. He is one of the most popular and versatile singers in the Indian music industry.',
     fees: 100,
@@ -200,7 +200,7 @@ export const musican = [
     _id: 'doc12',
     name: 'Sushant KC',
     image: doc12,
-    speciality: 'Nepalese Music',
+    speciality: 'Nepali',
     about:
       'Sushant KC is a Nepalese pop artist known for modern love ballads and heartfelt songwriting that resonates deeply with younger audiences in Nepal.',
     fees: 50,
@@ -218,7 +218,7 @@ export const musican = [
     _id: 'doc14',
     name: 'Adam Levine',
     image: doc14,
-    speciality: 'Electronic Music',
+    speciality: 'Electronic',
     about:
       'Adam Noah Levine is an American singer and the lead vocalist of the pop rock band Maroon 5, known for hits like "Sugar" and "Girls Like You."',
     fees: 300,
@@ -227,7 +227,7 @@ export const musican = [
     _id: 'doc15',
     name: 'Post Malone',
     image: doc15,
-    speciality: 'Country and Blues',
+    speciality: 'Country and blues',
     about:
       'Austin Richard Post, known professionally as Post Malone, is an American singer, rapper, and songwriter known for blending pop, hip-hop, and country elements.',
     fees: 300,

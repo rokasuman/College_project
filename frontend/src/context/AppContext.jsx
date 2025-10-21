@@ -4,10 +4,11 @@ import { musican } from "../assets/assets";
 export const AppContext = createContext()
 
 const AppContextProvider = (props) =>{
-
+  const currencySymbol = '$'
 
     const value = {
-        musican
+        musican,
+       currencySymbol
 
     }
     return(
